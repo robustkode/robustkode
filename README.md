@@ -1,8 +1,5 @@
 - 👋 Hi, I’m @robustkode
-- 👀 I’m interested in Deep Learning
-- 🌱 I’m currently learning RNN
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Full-Stack development using Nextjs
 
 <!---
 robustkode/robustkode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
